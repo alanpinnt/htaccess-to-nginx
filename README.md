@@ -1,4 +1,4 @@
-#htaccess-to-nginx
+# htaccess-to-nginx
 
 As of 2/14/2026 - I'm no longer updating this repo. Just keeping it here. For anyone else that needs it. 
 
